@@ -7,7 +7,6 @@ This repository contains the solution developed for the Soil Image Classificatio
 ├── /src/ # Source code (model, training, utils)
 ├── /notebooks/ # Jupyter Notebooks for training and inference
 │ ├── training.ipynb
-│ └── inference.ipynb
 ├── /data/
 │ └── download.sh # Script to download and prepare data
 ├── /cards/
@@ -31,5 +30,4 @@ This repository contains the solution developed for the Soil Image Classificatio
 ## Run Instructions
 
 1. Run the training notebook
-2. Run Inference notebook
-3. Evaluate the metric based on f1 score
+2. Evaluate the metric based on f1 score
